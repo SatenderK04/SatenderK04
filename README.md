@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Satender</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <img align="right" src="https://media.tenor.com/4bsdqD25bD8AAAAj/netflix-tired.gif" alt="Coding GIF" width="400"/>
 
 ---
 
 <p align="center"> 
-  <img src="[https://komarev.com/ghpvc/?username=satenderk04&label=Profile%20Views&color=0e75b6&style=flat](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/1483px-X_icon_2.svg.png)" alt="Profile Views" /> 
+  <img src="https://endlessicons.com/wp-content/uploads/2012/11/view-icon-614x460.png" style="height:50px" alt="Profile Views" /> 
   <a href="https://twitter.com/Satender2004" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Satender2004?logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmTwnA_cbtpvYtWYfPtisBpkedtXxX0Xy6fQ&s" style="height:50px" alt="Twitter Badge"/>
   </a>
 </p>
 
@@ -16,9 +16,9 @@
 
 <h2>💡 About Me</h2>
 
-- 🌱 **Currently learning**: React JS  
+- 🌱 **Currently learning**: Node js, socket.io  
 - 👨‍💻 **Check out my projects**: [GitHub Portfolio](https://github.com/SatenderK04)  
-- 💬 **Ask me about**: HTML, CSS, JavaScript, React, Python  
+- 💬 **Ask me about**: HTML, CSS, JavaScript, React, Node, Mongodb 
 - 📫 **Reach me at**: satender12304@gmail.com  
 - ⚡ **Fun Fact**: When I’m not coding, I’m learning to code 😎  
 
