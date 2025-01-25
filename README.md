@@ -5,15 +5,6 @@
 
 ---
 
-<p align="center"> 
-  <img src="https://endlessicons.com/wp-content/uploads/2012/11/view-icon-614x460.png" style="height:50px" alt="Profile Views" /> 
-  <a href="https://twitter.com/Satender2004" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmTwnA_cbtpvYtWYfPtisBpkedtXxX0Xy6fQ&s" style="height:50px" alt="Twitter Badge"/>
-  </a>
-</p>
-
----
-
 <h2>💡 About Me</h2>
 
 - 🌱 **Currently learning**: Node js, socket.io  
@@ -28,9 +19,14 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/satenderk04" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 20px;" />
+  </a>
+  <a href="https://twitter.com/Satender2004" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="Twitter" height="40" width="40" />
   </a>
 </p>
+
+
 
 ---
 
