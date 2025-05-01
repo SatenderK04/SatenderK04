@@ -7,11 +7,10 @@
 
 <h2>💡 About Me</h2>
 
-- 🌱 **Currently learning**: Node js, socket.io  
+- 🌱 **Currently learning**: Node js, Next.js.  
 - 👨‍💻 **Check out my projects**: [GitHub Portfolio](https://github.com/SatenderK04)  
-- 💬 **Ask me about**: HTML, CSS, JavaScript, React, Node, Mongodb 
+- 💬 **Ask me about**: HTML, CSS, JavaScript, React, Node, Mongodb, SQL. 
 - 📫 **Reach me at**: satender12304@gmail.com  
-- ⚡ **Fun Fact**: When I’m not coding, I’m learning to code 😎  
 
 ---
 
