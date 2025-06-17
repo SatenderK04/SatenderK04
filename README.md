@@ -9,7 +9,7 @@
 
 - 🌱 **Currently learning**: Node js, Next.js.  
 - 👨‍💻 **Check out my projects**: [GitHub Portfolio](https://github.com/SatenderK04)  
-- 💬 **Ask me about**: HTML, CSS, JavaScript, React, Node, Mongodb, SQL. 
+- 💬 **Ask me about**: CSS, Tailwind, JavaScript, React, Next, Node, Mongodb, SQL. 
 - 📫 **Reach me at**: satender12304@gmail.com  
 
 ---
